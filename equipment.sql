@@ -1,0 +1,1 @@
+INSERT INTO equipment(id, fk_etat, fk_modele, fk_marque, fk_taille, fk_couleur) VALUES (60, 100, 3001, 2001, 0001, 0010);
